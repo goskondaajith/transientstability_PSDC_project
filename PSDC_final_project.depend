@@ -1,0 +1,243 @@
+# depslib dependency file v1.0
+1667839390 source:c:\users\goskonda ajith\onedrive\documents\codeblocks save\psdc_final_project\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+	<math.h>
+
+1667743579 c:\users\goskonda ajith\onedrive\documents\codeblocks save\psdc_final_project\functions.h
+	<complex.h>
+	<math.h>
+
+1670610718 source:c:\users\goskonda ajith\onedrive\documents\codeblocks save\psdc_final_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670572064 source:c:\users\goskonda ajith\onedrive\documents\codeblocks save\psdc_final_project\data_storage_function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670605080 c:\users\goskonda ajith\onedrive\documents\codeblocks save\psdc_final_project\header.h
+	<complex.h>
+	<math.h>
+
+1670572064 source:c:\users\goskonda ajith\onedrive\documents\codeblocks save\psdc_final_project\y_bus_pre_cal_function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670572064 source:c:\users\goskonda ajith\onedrive\documents\codeblocks save\psdc_final_project\y_bus_during_post_cal_function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670578264 source:c:\users\goskonda ajith\onedrive\documents\codeblocks save\psdc_final_project\intial_cond_function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670579116 source:c:\users\goskonda ajith\onedrive\documents\codeblocks save\psdc_final_project\write_to_file.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670704109 source:c:\users\goskonda ajith\onedrive\documents\codeblocks save\psdc_final_project\time_simulation_function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670177613 source:c:\users\goskonda ajith\onedrive\documents\codeblocks save\psdc_final_project\gauss_elimination.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<math.h>
+	<stdio.h>
+
+1670701508 source:c:\users\goskonda ajith\onedrive\documents\codeblocks save\psdc_final_project\runge_kutta_4.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670572065 source:c:\users\goskonda ajith\onedrive\documents\codeblocks save\psdc_final_project\inverse_ybus.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<complex.h>
+	<stdlib.h>
+	"header.h"
+
+1670703114 source:c:\users\goskonda ajith\onedrive\documents\codeblocks save\psdc_final_project\network_equations.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670572064 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\project\psdc_final_project\data_storage_function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670781006 c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\project\psdc_final_project\header.h
+	<complex.h>
+	<math.h>
+
+1670709758 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\project\psdc_final_project\intial_cond_function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670572065 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\project\psdc_final_project\inverse_ybus.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<complex.h>
+	<stdlib.h>
+	"header.h"
+
+1670780973 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\project\psdc_final_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670708527 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\project\psdc_final_project\network_equations.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670701508 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\project\psdc_final_project\runge_kutta_4.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670777919 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\project\psdc_final_project\time_simulation_function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670708856 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\project\psdc_final_project\write_to_file.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670572064 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\project\psdc_final_project\y_bus_during_post_cal_function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670763754 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\project\psdc_final_project\y_bus_pre_cal_function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670785097 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\psdc_final_project\psdc_final_project\data_storage_function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670916331 c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\psdc_final_project\psdc_final_project\header.h
+	<complex.h>
+	<math.h>
+
+1670785109 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\psdc_final_project\psdc_final_project\intial_cond_function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670785414 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\psdc_final_project\psdc_final_project\inverse_ybus.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<complex.h>
+	<stdlib.h>
+	"header.h"
+
+1670786426 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\psdc_final_project\psdc_final_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670785464 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\psdc_final_project\psdc_final_project\network_equations.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670821428 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\psdc_final_project\psdc_final_project\runge_kutta_4.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670820275 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\psdc_final_project\psdc_final_project\time_simulation_function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670785139 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\psdc_final_project\psdc_final_project\write_to_file.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670572066 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\psdc_final_project\psdc_final_project\y_bus_during_post_cal_function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+
+1670785047 source:c:\users\goskonda ajith\downloads\iisc\iisc courses\sem1\psdc\psdc_final_project\psdc_final_project\y_bus_pre_cal_function.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<complex.h>
+	<math.h>
+

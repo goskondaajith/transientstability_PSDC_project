@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PSDC_final_project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PSDC_final_project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PSDC_final_project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="PAI9B.txt" />
+		<Unit filename="data_storage_function.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="header.h" />
+		<Unit filename="intial_cond_function.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="inverse_ybus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="network_equations.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="runge_kutta_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="time_simulation_function.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="write_to_file.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="y_bus_during_post_cal_function.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="y_bus_pre_cal_function.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
